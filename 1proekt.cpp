@@ -1,5 +1,7 @@
 #include <iostream>
 
+
+// guess the number 
 int getNumberFromUser(){
     
     std::cout << "input ur number (0-10): ";
